@@ -1,4 +1,4 @@
-Zotero-Tutorial
+Computerphilologie
 ===============
 
-Kleine Einführung in die wichtigsten Funktionen von Zotero.
+Kleine Einführung in die einige Themen und Tools der Computerphilologie.
