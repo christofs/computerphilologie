@@ -1,4 +1,6 @@
 Computerphilologie
-===============
+==================
 
-Kleine Einführung in die einige Themen und Tools der Computerphilologie.
+Kleiner Überblick über einige Themen und Tools der Computerphilologie.
+
+* http://christofs.github.io/computerphilologie/#/
